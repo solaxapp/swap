@@ -1,0 +1,220 @@
+{
+  "common": {
+    "swap": "Swap",
+    "blog": "Blog",
+    "twitter": "Twitter",
+    "discord": "Discord",
+    "apy": "APY",
+    "resources": "resources",
+    "contact": "contact",
+    "social": "social",
+    "join": "Join",
+    "emailExample": "name@example.com",
+    "documents":"documents",
+    "disconnectWallet": "Disconnect wallet",
+    "feeAccount": "Fee account",
+    "add": "Add"
+  },
+  "messages": {
+    "successCopyWalletAddress": "Wallet address copied!"
+  },
+  "appBar": {
+    "launchApp": "Launch App",
+    "home": "Home",
+    "saxToken": "$SAX Token"
+  },
+  "swapAppBar": {
+    "swap": "Swap",
+    "liquidity": "Liquidity",
+    "pools": "Pools",
+    "farms": "Farms",
+    "staking": "Staking",
+    "theme": "Theme",
+    "profile": "My profile"
+  },
+  "footer": {
+    "resources": [
+      {
+        "title": "GITHUB",
+        "link": ""
+      },
+      {
+        "title": "WHITE PAPER",
+        "link": ""
+      },
+      {
+        "title": "PITCH DECK",
+        "link": ""
+      },
+      {
+        "title": "COINGECKO",
+        "link": ""
+      },
+      {
+        "title": "COINMARKETCAP",
+        "link": ""
+      }
+    ],
+    "contact": [
+      {
+        "title": "www.solax.app",
+        "link": "www.solax.app"
+      },
+      {
+        "title": "hello@solax.app",
+        "link": "mailto:hello@solax.ap"
+      }
+    ]
+  },
+  "homePage": {
+    "header": {
+      "poweredBy": "POWERED BY",
+      "title": "UNLIMITED \n SWAPS",
+      "subTitle": "DeFi 2.0 cross-chain exchange on Solana"
+    },
+    "firstSection": {
+      "title": "PLATFORM \n FEATURES",
+      "firstCardTitle": "INSTANT SWAPS",
+      "firstCardText": "Enjoy instant trades between pairs with minimal slippage, low transaction cost or trading fees.",
+      "secondCardTitle": "CROSS-CHAIN",
+      "secondCardText": "Our integrated bridge enables cross-chain functions and integrates the most popular blockchain ecosystems like Ethereum, Binance Smart Chain, Polygon and many more.",
+      "thirdCardTitle": "DEFI 2.0",
+      "thirdCardText": "Our liquidity pools enable smart liquidity routing with dynamic pool balances and singe side liquidity mining options as well as variable trading fees. Thanks to smart liquidity routing, we can eliminate the risk of impermanent loss and capital will always be staked at highest efficiency and APYs."
+    },
+    "secondSection": {
+      "title": "USE-CASES",
+      "cards": [
+        {
+          "title": "FOR TRADERS",
+          "text": "Users can instantly swap their (wrapped) tokens against native tokens or wrapped tokens from other blockchains at low costs and high speeds."
+        },
+        {
+          "title": "LIQUIDITY PROVIDERS",
+          "text": "Liquidity providers can provide liquidity with their favorite assets while our smart liquidity routing ensures the most efficient use of the provided liquidity."
+        },
+        {
+          "title": "PROJECTS",
+          "text": "Projects can easily bootstrap liquidity thanks to our flexible liquidity pools and smart liquidity routing."
+        },
+        {
+          "title": "$SAX HOLDERS",
+          "text": "$SAX token holders can stake their tokens a earn trading rewards or trade with discounts. $SAX staking will also be part of smart liquidity routing."
+        }
+      ]
+    },
+    "thirdSection": {
+      "title": "TRUSTED BY THE BEST"
+    },
+    "saxTokenSection": {
+      "title": "SAX TOKEN",
+      "button": "MORE INFORMATION"
+    }
+  },
+  "saxTokenPage": {
+    "title": "SAX TOKEN",
+    "secondTitle": "OUR SEED ROUND IS LIVE",
+    "cardTitle": "TOKENOMIC",
+    "generalInfos": "GENERAL INFOS",
+    "communityPool": "COMMUNITY POOL",
+    "generalItems": [
+      {
+        "text": "INITIAL PRICE",
+        "value": "$0.050"
+      },
+      {
+        "text": "MAX. TOKEN SUPPLY",
+        "value": "500.000.000"
+      },
+      {
+        "text": "INITIAL MARKETCAP",
+        "value": "$1.981.250"
+      },
+      {
+        "text": "INITIAL TOKEN SUPPLY %",
+        "value": "39.625.000"
+      },
+      {
+        "text": "INITIAL TOKEN SUPPLY %",
+        "value": "39.625.000"
+      },
+      {
+        "text": "INITIAL SUPPLY/TOTAL SUPPLY"
+      }
+    ],
+    "poolItems": [
+      {
+        "title": "Private/Pre Sale ($0.035)",
+        "value": "20.0%",
+        "text": ""
+      },
+      {
+        "title": "Seed Sale ($0.03)",
+        "value": "15.0%",
+        "text": ""
+      },
+      {
+        "title": "Seed Sale ($0.03)",
+        "value": "5.0%",
+        "text": ""
+      },
+      {
+        "title": "Seed Sale ($0.03)",
+        "value": "10.0%",
+        "text": ""
+      },
+      {
+        "title": "Seed Sale ($0.03)",
+        "value": "10.0%",
+        "text": ""
+      },
+      {
+        "title": "Seed Sale ($0.03)",
+        "value": "20.0%",
+        "text": ""
+      }
+    ],
+    "privatePreSale": "",
+    "privatePercentage": "4.0%",
+    "lorem": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's",
+    "cardSubTitle": "TOKEN UTILITIES:",
+    "stakingRewards": "Staking Pool Rewards",
+    "stakingValue": "20% of all trading fees will be distributed towards various $SAX staking pools.",
+    "tradingDiscount": "Trading Discounts for $SAX Stakers",
+    "tiresTitles": ["Tier 1","Tier 2", "Tier 3", "Tier 4", "Tier 5"],
+    "tiresFirstValues": [">4.000 $SAX", ">8.000 $SAX", ">16.000 $SAX", ">32.000 $SAX", ">64.000 $SAX"],
+    "tiresSecondValues": ["4%","8%", "16%", "32%", "64%" ],
+    "start": "Februar 6th",
+    "end": "April 30th",
+    "tokenPrice": "TOKEN PRICE",
+    "tokenPriceValue": "$0.035",
+    "currentDiscount": "CURRENT DISCOUNT",
+    "currentDiscountValue": "20%",
+    "minimumInvestments": "MINIMUM INVESTMENT",
+    "minimumInvestmentsValue": "$5.000",
+    "feedTitle": "JOIN OUR SEED ROUND",
+    "feedText": "Just type in your email address and get contacted by one of our team members.",
+    "whitePaperButton": "White Paper",
+    "pitchDeckButton": "Pitch Deck",
+    "legalButton": "Legal Disclaimer"
+  },
+  "swapPage": {
+    "title": "SWAP",
+    "connectWallet": "Connect Wallet"
+  },
+  "poolPage": {
+    "title": "POOLS"
+  },
+  "liquidityPage": {
+    "title": "Provide liquidity"
+  },
+  "userProfilePage": {
+    "title": "Your wallet",
+    "noPools": "No pools",
+    "poolLinkText": "Create pool.",
+    "noTokens": "No tokens",
+    "tokenIcon": "Icon",
+    "tokenName": "Name",
+    "tokenAddress": "Address",
+    "tokenAmount": "Amount"
+  }
+}

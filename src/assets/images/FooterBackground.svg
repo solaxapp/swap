@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="100" viewBox="0 0 1920 100">
+  <defs>
+    <linearGradient id="linear-gradient" y1="0.5" x2="1" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#a096dc"/>
+      <stop offset="0.25" stop-color="#beaffa"/>
+      <stop offset="0.5" stop-color="#f99"/>
+      <stop offset="0.75" stop-color="#00d2c8"/>
+      <stop offset="1" stop-color="#00b4b4"/>
+    </linearGradient>
+  </defs>
+  <g id="FADE_05" transform="translate(960 50)">
+    <rect id="Rechteck_273" data-name="Rechteck 273" width="1920" height="100" transform="translate(-960 -50)" fill="url(#linear-gradient)"/>
+  </g>
+</svg>

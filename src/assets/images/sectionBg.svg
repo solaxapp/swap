@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2000.445" height="1333.63" viewBox="0 0 2000.445 1333.63">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.026" y1="0.089" x2="0.974" y2="0.911" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fafafa"/>
+      <stop offset="1" stop-color="#e1e1e1"/>
+    </linearGradient>
+  </defs>
+  <g id="FADE_DIAGONAL_03" transform="translate(1000.222 666.815)">
+    <path id="Pfad_1993" data-name="Pfad 1993" d="M2000.445,1125.25,0,1333.63V208.38L2000.445,0Z" transform="translate(-1000.222 -666.815)" fill="url(#linear-gradient)"/>
+  </g>
+</svg>

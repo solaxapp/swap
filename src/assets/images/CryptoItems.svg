@@ -1,0 +1,126 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2060" height="200" viewBox="0 0 2060 200">
+  <defs>
+    <filter id="Pfad_2408" x="1020" y="0" width="360" height="200" filterUnits="userSpaceOnUse">
+      <feOffset dx="10" dy="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="10" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Pfad_2409" x="1360" y="0" width="360" height="200" filterUnits="userSpaceOnUse">
+      <feOffset dx="10" dy="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="10" result="blur-2"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Pfad_6689" x="1700" y="0" width="360" height="200" filterUnits="userSpaceOnUse">
+      <feOffset dx="10" dy="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="10" result="blur-3"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Pfad_2407" x="680" y="0" width="360" height="200" filterUnits="userSpaceOnUse">
+      <feOffset dx="10" dy="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="10" result="blur-4"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rechteck_292" x="340" y="0" width="360" height="200" filterUnits="userSpaceOnUse">
+      <feOffset dx="10" dy="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="10" result="blur-5"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-5"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rechteck_292-2" x="0" y="0" width="360" height="200" filterUnits="userSpaceOnUse">
+      <feOffset dx="10" dy="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="10" result="blur-6"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-6"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Gruppe_677" data-name="Gruppe 677" transform="translate(80 -901)">
+    <g id="Gruppe_671" data-name="Gruppe 671" transform="translate(-1987.833 207)">
+      <g transform="matrix(1, 0, 0, 1, 1907.83, 694)" filter="url(#Pfad_2408)">
+        <path id="Pfad_2408-2" data-name="Pfad 2408" d="M10,0H290a10,10,0,0,1,10,10V130a10,10,0,0,1-10,10H10A10,10,0,0,1,0,130V10A10,10,0,0,1,10,0Z" transform="translate(1040 20)" fill="#beaffa"/>
+      </g>
+      <circle id="Ellipse_273" data-name="Ellipse 273" cx="15" cy="15" r="15" transform="translate(2967 733)" fill="#fff"/>
+      <circle id="Ellipse_274" data-name="Ellipse 274" cx="15" cy="15" r="15" transform="translate(3059 733)" fill="#fff"/>
+      <text id="BTC_" data-name="BTC /" transform="translate(3003.5 735.5)" fill="#fff" font-size="20" font-family="EncodeSans-Bold, Encode Sans" font-weight="700"><tspan x="0" y="21">BTC /</tspan></text>
+      <text id="_2_839_" data-name="2,839%" transform="translate(2970 807)" fill="#192337" font-size="20" font-family="EncodeSans-SemiBold, Encode Sans" font-weight="600"><tspan x="0" y="21">2,839%</tspan></text>
+      <text id="APY" transform="translate(3059 807)" fill="#00b4b4" font-size="20" font-family="EncodeSans-SemiBold, Encode Sans" font-weight="600"><tspan x="0" y="21">APY</tspan></text>
+      <text id="renBTC" transform="translate(3095.5 735.5)" fill="#fff" font-size="20" font-family="EncodeSans-Bold, Encode Sans" font-weight="700"><tspan x="0" y="21">renBTC</tspan></text>
+      <text id="Wrapped_Bitcoin_Sollet_renBTC" data-name="Wrapped Bitcoin (Sollet) / renBTC" transform="translate(2970 766)" fill="#fff" font-size="15" font-family="EncodeSans-Regular, Encode Sans"><tspan x="0" y="15">Wrapped Bitcoin (Sollet) / renBTC</tspan></text>
+      <line id="Linie_201" data-name="Linie 201" x2="220" transform="translate(2970.5 795.5)" fill="none" stroke="#192337" stroke-width="1"/>
+    </g>
+    <g id="Gruppe_675" data-name="Gruppe 675" transform="translate(-1647.833 207)">
+      <g transform="matrix(1, 0, 0, 1, 1567.83, 694)" filter="url(#Pfad_2409)">
+        <path id="Pfad_2409-2" data-name="Pfad 2409" d="M10,0H290a10,10,0,0,1,10,10V130a10,10,0,0,1-10,10H10A10,10,0,0,1,0,130V10A10,10,0,0,1,10,0Z" transform="translate(1380 20)" fill="#beaffa"/>
+      </g>
+      <circle id="Ellipse_273-2" data-name="Ellipse 273" cx="15" cy="15" r="15" transform="translate(2967 733)" fill="#fff"/>
+      <circle id="Ellipse_274-2" data-name="Ellipse 274" cx="15" cy="15" r="15" transform="translate(3059 733)" fill="#fff"/>
+      <text id="BTC_2" data-name="BTC /" transform="translate(3003.5 735.5)" fill="#fff" font-size="20" font-family="EncodeSans-Bold, Encode Sans" font-weight="700"><tspan x="0" y="21">BTC /</tspan></text>
+      <text id="_2_839_2" data-name="2,839%" transform="translate(2970 807)" fill="#192337" font-size="20" font-family="EncodeSans-SemiBold, Encode Sans" font-weight="600"><tspan x="0" y="21">2,839%</tspan></text>
+      <text id="APY-2" data-name="APY" transform="translate(3059 807)" fill="#00b4b4" font-size="20" font-family="EncodeSans-SemiBold, Encode Sans" font-weight="600"><tspan x="0" y="21">APY</tspan></text>
+      <text id="renBTC-2" data-name="renBTC" transform="translate(3095.5 735.5)" fill="#fff" font-size="20" font-family="EncodeSans-Bold, Encode Sans" font-weight="700"><tspan x="0" y="21">renBTC</tspan></text>
+      <text id="Wrapped_Bitcoin_Sollet_renBTC-2" data-name="Wrapped Bitcoin (Sollet) / renBTC" transform="translate(2970 766)" fill="#fff" font-size="15" font-family="EncodeSans-Regular, Encode Sans"><tspan x="0" y="15">Wrapped Bitcoin (Sollet) / renBTC</tspan></text>
+      <line id="Linie_201-2" data-name="Linie 201" x2="220" transform="translate(2970.5 795.5)" fill="none" stroke="#192337" stroke-width="1"/>
+    </g>
+    <g id="Gruppe_676" data-name="Gruppe 676" transform="translate(-1307.833 207)">
+      <g transform="matrix(1, 0, 0, 1, 1227.83, 694)" filter="url(#Pfad_6689)">
+        <path id="Pfad_6689-2" data-name="Pfad 6689" d="M10,0H290a10,10,0,0,1,10,10V130a10,10,0,0,1-10,10H10A10,10,0,0,1,0,130V10A10,10,0,0,1,10,0Z" transform="translate(1720 20)" fill="#beaffa"/>
+      </g>
+      <circle id="Ellipse_273-3" data-name="Ellipse 273" cx="15" cy="15" r="15" transform="translate(2967 733)" fill="#fff"/>
+      <circle id="Ellipse_274-3" data-name="Ellipse 274" cx="15" cy="15" r="15" transform="translate(3059 733)" fill="#fff"/>
+      <text id="BTC_3" data-name="BTC /" transform="translate(3003.5 735.5)" fill="#fff" font-size="20" font-family="EncodeSans-Bold, Encode Sans" font-weight="700"><tspan x="0" y="21">BTC /</tspan></text>
+      <text id="_2_839_3" data-name="2,839%" transform="translate(2970 807)" fill="#192337" font-size="20" font-family="EncodeSans-SemiBold, Encode Sans" font-weight="600"><tspan x="0" y="21">2,839%</tspan></text>
+      <text id="APY-3" data-name="APY" transform="translate(3059 807)" fill="#00b4b4" font-size="20" font-family="EncodeSans-SemiBold, Encode Sans" font-weight="600"><tspan x="0" y="21">APY</tspan></text>
+      <text id="renBTC-3" data-name="renBTC" transform="translate(3095.5 735.5)" fill="#fff" font-size="20" font-family="EncodeSans-Bold, Encode Sans" font-weight="700"><tspan x="0" y="21">renBTC</tspan></text>
+      <text id="Wrapped_Bitcoin_Sollet_renBTC-3" data-name="Wrapped Bitcoin (Sollet) / renBTC" transform="translate(2970 766)" fill="#fff" font-size="15" font-family="EncodeSans-Regular, Encode Sans"><tspan x="0" y="15">Wrapped Bitcoin (Sollet) / renBTC</tspan></text>
+      <line id="Linie_201-3" data-name="Linie 201" x2="220" transform="translate(2970.5 795.5)" fill="none" stroke="#192337" stroke-width="1"/>
+    </g>
+    <g id="Gruppe_672" data-name="Gruppe 672" transform="translate(-2327.833 207)">
+      <g transform="matrix(1, 0, 0, 1, 2247.83, 694)" filter="url(#Pfad_2407)">
+        <path id="Pfad_2407-2" data-name="Pfad 2407" d="M10,0H290a10,10,0,0,1,10,10V130a10,10,0,0,1-10,10H10A10,10,0,0,1,0,130V10A10,10,0,0,1,10,0Z" transform="translate(700 20)" fill="#beaffa"/>
+      </g>
+      <circle id="Ellipse_273-4" data-name="Ellipse 273" cx="15" cy="15" r="15" transform="translate(2967 733)" fill="#fff"/>
+      <circle id="Ellipse_274-4" data-name="Ellipse 274" cx="15" cy="15" r="15" transform="translate(3059 733)" fill="#fff"/>
+      <text id="BTC_4" data-name="BTC /" transform="translate(3003.5 735.5)" fill="#fff" font-size="20" font-family="EncodeSans-Bold, Encode Sans" font-weight="700"><tspan x="0" y="21">BTC /</tspan></text>
+      <text id="_2_839_4" data-name="2,839%" transform="translate(2970 807)" fill="#192337" font-size="20" font-family="EncodeSans-SemiBold, Encode Sans" font-weight="600"><tspan x="0" y="21">2,839%</tspan></text>
+      <text id="APY-4" data-name="APY" transform="translate(3059 807)" fill="#00b4b4" font-size="20" font-family="EncodeSans-SemiBold, Encode Sans" font-weight="600"><tspan x="0" y="21">APY</tspan></text>
+      <text id="renBTC-4" data-name="renBTC" transform="translate(3095.5 735.5)" fill="#fff" font-size="20" font-family="EncodeSans-Bold, Encode Sans" font-weight="700"><tspan x="0" y="21">renBTC</tspan></text>
+      <text id="Wrapped_Bitcoin_Sollet_renBTC-4" data-name="Wrapped Bitcoin (Sollet) / renBTC" transform="translate(2970 766)" fill="#fff" font-size="15" font-family="EncodeSans-Regular, Encode Sans"><tspan x="0" y="15">Wrapped Bitcoin (Sollet) / renBTC</tspan></text>
+      <line id="Linie_201-4" data-name="Linie 201" x2="220" transform="translate(2970.5 795.5)" fill="none" stroke="#192337" stroke-width="1"/>
+    </g>
+    <g id="Gruppe_673" data-name="Gruppe 673" transform="translate(-2667.833 207)">
+      <g transform="matrix(1, 0, 0, 1, 2587.83, 694)" filter="url(#Rechteck_292)">
+        <rect id="Rechteck_292-3" data-name="Rechteck 292" width="300" height="140" rx="10" transform="translate(360 20)" fill="#beaffa"/>
+      </g>
+      <circle id="Ellipse_273-5" data-name="Ellipse 273" cx="15" cy="15" r="15" transform="translate(2967 733)" fill="#fff"/>
+      <circle id="Ellipse_274-5" data-name="Ellipse 274" cx="15" cy="15" r="15" transform="translate(3059 733)" fill="#fff"/>
+      <text id="BTC_5" data-name="BTC /" transform="translate(3003.5 735.5)" fill="#fff" font-size="20" font-family="EncodeSans-Bold, Encode Sans" font-weight="700"><tspan x="0" y="21">BTC /</tspan></text>
+      <text id="_2_839_5" data-name="2,839%" transform="translate(2970 807)" fill="#192337" font-size="20" font-family="EncodeSans-SemiBold, Encode Sans" font-weight="600"><tspan x="0" y="21">2,839%</tspan></text>
+      <text id="APY-5" data-name="APY" transform="translate(3059 807)" fill="#00b4b4" font-size="20" font-family="EncodeSans-SemiBold, Encode Sans" font-weight="600"><tspan x="0" y="21">APY</tspan></text>
+      <text id="renBTC-5" data-name="renBTC" transform="translate(3095.5 735.5)" fill="#fff" font-size="20" font-family="EncodeSans-Bold, Encode Sans" font-weight="700"><tspan x="0" y="21">renBTC</tspan></text>
+      <text id="Wrapped_Bitcoin_Sollet_renBTC-5" data-name="Wrapped Bitcoin (Sollet) / renBTC" transform="translate(2970 766)" fill="#fff" font-size="15" font-family="EncodeSans-Regular, Encode Sans"><tspan x="0" y="15">Wrapped Bitcoin (Sollet) / renBTC</tspan></text>
+      <line id="Linie_201-5" data-name="Linie 201" x2="220" transform="translate(2970.5 795.5)" fill="none" stroke="#192337" stroke-width="1"/>
+    </g>
+    <g id="Gruppe_674" data-name="Gruppe 674" transform="translate(-3007.833 207)">
+      <g transform="matrix(1, 0, 0, 1, 2927.83, 694)" filter="url(#Rechteck_292-2)">
+        <rect id="Rechteck_292-4" data-name="Rechteck 292" width="300" height="140" rx="10" transform="translate(20 20)" fill="#beaffa"/>
+      </g>
+      <circle id="Ellipse_273-6" data-name="Ellipse 273" cx="15" cy="15" r="15" transform="translate(2967 733)" fill="#fff"/>
+      <circle id="Ellipse_274-6" data-name="Ellipse 274" cx="15" cy="15" r="15" transform="translate(3059 733)" fill="#fff"/>
+      <text id="BTC_6" data-name="BTC /" transform="translate(3003.5 735.5)" fill="#fff" font-size="20" font-family="EncodeSans-Bold, Encode Sans" font-weight="700"><tspan x="0" y="21">BTC </tspan><tspan x="0" y="51">/</tspan></text>
+      <text id="_2_839_6" data-name="2,839%" transform="translate(2970 807)" fill="#192337" font-size="20" font-family="EncodeSans-SemiBold, Encode Sans" font-weight="600"><tspan x="0" y="21">2,839%</tspan></text>
+      <text id="APY-6" data-name="APY" transform="translate(3059 807)" fill="#00b4b4" font-size="20" font-family="EncodeSans-SemiBold, Encode Sans" font-weight="600"><tspan x="0" y="21">APY</tspan></text>
+      <text id="renBTC-6" data-name="renBTC" transform="translate(3095.5 735.5)" fill="#fff" font-size="20" font-family="EncodeSans-Bold, Encode Sans" font-weight="700"><tspan x="0" y="21">renBTC</tspan></text>
+      <text id="Wrapped_Bitcoin_Sollet_renBTC-6" data-name="Wrapped Bitcoin (Sollet) / renBTC" transform="translate(2970 766)" fill="#fff" font-size="15" font-family="EncodeSans-Regular, Encode Sans"><tspan x="0" y="15">Wrapped Bitcoin (Sollet) / renBTC</tspan></text>
+      <line id="Linie_201-6" data-name="Linie 201" x2="220" transform="translate(2970.5 795.5)" fill="none" stroke="#192337" stroke-width="1"/>
+    </g>
+  </g>
+</svg>

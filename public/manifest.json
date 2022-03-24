@@ -1,0 +1,20 @@
+{
+  "short_name": "SolaX",
+  "name": "SolaX token based on Solana",
+  "icons": [
+    {
+      "src": "logoSolaX.svg",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/svg"
+    },
+    {
+      "src": "logoSolaX.svg",
+      "type": "image/svg",
+      "sizes": "192x192"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}

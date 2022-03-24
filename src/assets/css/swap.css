@@ -1,0 +1,8 @@
+.wallet-adapter-button-trigger{
+    background: linear-gradient(279deg, rgba(159,150,219,1) 0%, rgba(247,151,155,1) 53%, rgba(0,180,180,1) 100%) !important;
+    border: 3px solid #FFFFFF !important;
+}
+.wallet-adapter-button{
+
+    margin-left: 10px;
+}
