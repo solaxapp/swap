@@ -7,4 +7,4 @@ export const ROUTES = {
     USER_PROFILE: "/user-profile"
 }
 
-export const SOLAX_HOME_PAGE = "https://www.solax.app"
+export const SOLAX_HOME_PAGE = "https://staging.solax.app/"
